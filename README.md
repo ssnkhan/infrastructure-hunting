@@ -87,10 +87,6 @@ Datasette offers a simple yet powerful way of reviewing and querying the Mihari 
 
 ---
 
-I'd love to hear your thoughts and feedback. Feel free to say hello on Twitter [@snkhan](https://twitter.com/snkhan?lang=en) or via [LinkedIn](https://uk.linkedin.com/in/sajidnawazkhan).
-
----
-
 
 ### Backups
 Run `backup.sh` manually or via a cronjob to backup the `mihari.db` sqlite database to the `backups` folder. Update your paths as necessary.
@@ -98,5 +94,10 @@ Run `backup.sh` manually or via a cronjob to backup the `mihari.db` sqlite datab
 
 ---
 
+
+I'd love to hear your thoughts and feedback. Feel free to say hello on Twitter [@snkhan](https://twitter.com/snkhan?lang=en) or via [LinkedIn](https://uk.linkedin.com/in/sajidnawazkhan).
+
+
+---
 
 #cti #threatintelligence #blueteam #threathunting #shodan #censys
