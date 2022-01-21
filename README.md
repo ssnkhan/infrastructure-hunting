@@ -85,6 +85,10 @@ These scripts are designed to enrich artefacts collected by Mihari with basic wh
 #### Datasette
 Datasette offers a simple yet powerful way of reviewing and querying the Mihari database through your browser. Start the Datasette server with `datasette serve mihari.db -o`. Add basic chart generation with `pip3 install datasette-vega`.
 
+
+#### Link Analysis with Maltego
+A [local Maltego Transform](https://github.com/ssnkhan/mihari-maltego-transform) to query an sqlite3 `mihari.db`, and which returns the detection names and observation dates associated with an IPv4 address.
+
 ---
 
 
